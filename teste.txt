@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+oi oi
+=======
 primeiro commit
+<<<<<<< HEAD
 oi
+=======
+>>>>>>> 4b7628bc0f8cef1213242183e04635afdce8ff2c
+>>>>>>> bfd737b439e9faaea01a69a507f7adcade2d8f7b
